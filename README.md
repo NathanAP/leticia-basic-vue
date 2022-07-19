@@ -9,7 +9,7 @@ conta e risco.
 
 Este repositório tem o intuito de servir como portfólio para mim como professor da aluna
 Leticia no período do mês de Julho de 2022, que procurou aulas comigo através do
-[SuperProf](www.superprof.com.br).
+[SuperProf](http://www.superprof.com.br).
 
 ## Temas
 
