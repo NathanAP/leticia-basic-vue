@@ -1,7 +1,38 @@
-# Vue 3 + Vite
+# Atenção
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este repositório está arquivado e sua tecnologia eventualmente se tornará depreciada.
+Tudo o que contém nele pode não funcionar corretamente ao clonar e executar, por isso
+não deve ser utilizado para nenhum propósito profissional ou crítico. Use por sua própria
+conta e risco.
 
-## Recommended IDE Setup
+# Sobre este repositório
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+Este repositório tem o intuito de servir como portfólio para mim como professor da aluna
+Leticia no período do mês de Julho de 2022, que procurou aulas comigo através do
+[SuperProf](www.superprof.com.br).
+
+## Temas
+
+-   Básico de Vue 3 abordando:
+    -   Fundamentos básicos
+    -   Identação, boas práticas, melhores métodos de aplicação de algoritmo
+    -   Como criar seus componentes básicos
+    -   Como mostrar dados na tela
+    -   Como organizar um projeto
+    -   Utilização de componentes reativos
+    -   Utilização de propriedades
+    -   Emissão de dados entre componentes
+    -   Toda a parte básica de slots
+
+## Versões
+
+-   Vue 3.2.25
+-   Vite 2.9.9
+-   Sass 1.53.0
+
+## Copyrights
+
+Este repositório é apenas demonstrativo e não pode ser distribuído como produto com fins
+lucrativos em nenhuma altura.
+
+Em caso de dúvidas por favor entre em contato.
